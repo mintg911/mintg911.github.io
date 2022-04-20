@@ -1,47 +1,47 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/mintg911/mintg911.github.io</id>
+    <id>http://github.com/mintg911/mintg911.github.io</id>
     <title>Ming&apos;s ideas</title>
-    <updated>2022-04-20T14:05:17.642Z</updated>
+    <updated>2022-04-20T14:11:26.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/mintg911/mintg911.github.io"/>
-    <link rel="self" href="https://github.com/mintg911/mintg911.github.io/atom.xml"/>
+    <link rel="alternate" href="http://github.com/mintg911/mintg911.github.io"/>
+    <link rel="self" href="http://github.com/mintg911/mintg911.github.io/atom.xml"/>
     <subtitle>科研，记录，感想</subtitle>
-    <logo>https://github.com/mintg911/mintg911.github.io/images/avatar.png</logo>
-    <icon>https://github.com/mintg911/mintg911.github.io/favicon.ico</icon>
+    <logo>http://github.com/mintg911/mintg911.github.io/images/avatar.png</logo>
+    <icon>http://github.com/mintg911/mintg911.github.io/favicon.ico</icon>
     <rights>All rights reserved 2022, Ming&apos;s ideas</rights>
     <entry>
         <title type="html"><![CDATA[yousiyipian]]></title>
-        <id>https://github.com/mintg911/mintg911.github.io/post/yousiyipian/</id>
-        <link href="https://github.com/mintg911/mintg911.github.io/post/yousiyipian/">
+        <id>http://github.com/mintg911/mintg911.github.io/post/yousiyipian/</id>
+        <link href="http://github.com/mintg911/mintg911.github.io/post/yousiyipian/">
         </link>
         <updated>2022-04-20T14:03:42.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[Github上下载txt文件]]></title>
-        <id>https://github.com/mintg911/mintg911.github.io/post/github-shang-xia-zai-txt-wen-jian/</id>
-        <link href="https://github.com/mintg911/mintg911.github.io/post/github-shang-xia-zai-txt-wen-jian/">
+        <id>http://github.com/mintg911/mintg911.github.io/post/github-shang-xia-zai-txt-wen-jian/</id>
+        <link href="http://github.com/mintg911/mintg911.github.io/post/github-shang-xia-zai-txt-wen-jian/">
         </link>
         <updated>2022-04-20T07:05:07.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[第二版]]></title>
-        <id>https://github.com/mintg911/mintg911.github.io/post/di-er-ban/</id>
-        <link href="https://github.com/mintg911/mintg911.github.io/post/di-er-ban/">
+        <id>http://github.com/mintg911/mintg911.github.io/post/di-er-ban/</id>
+        <link href="http://github.com/mintg911/mintg911.github.io/post/di-er-ban/">
         </link>
         <updated>2022-04-20T06:53:03.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[XFEM测试]]></title>
-        <id>https://github.com/mintg911/mintg911.github.io/post/xfem-ce-shi/</id>
-        <link href="https://github.com/mintg911/mintg911.github.io/post/xfem-ce-shi/">
+        <id>http://github.com/mintg911/mintg911.github.io/post/xfem-ce-shi/</id>
+        <link href="http://github.com/mintg911/mintg911.github.io/post/xfem-ce-shi/">
         </link>
         <updated>2022-04-20T06:48:47.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[第一篇测试文档]]></title>
-        <id>https://github.com/mintg911/mintg911.github.io/post/DLe7nXIg3/</id>
-        <link href="https://github.com/mintg911/mintg911.github.io/post/DLe7nXIg3/">
+        <id>http://github.com/mintg911/mintg911.github.io/post/DLe7nXIg3/</id>
+        <link href="http://github.com/mintg911/mintg911.github.io/post/DLe7nXIg3/">
         </link>
         <updated>2022-04-20T06:30:22.000Z</updated>
         <summary type="html"><![CDATA[<p>这个是我的一片测试文档<br>
